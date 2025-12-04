@@ -12,4 +12,4 @@ The projects focus on understanding logic such as loops, events, and conditions 
 - Learn the basics of programming
 - Improve logical thinking using Scratch
   
-Created by Aman
+Created by Aman Koli
