@@ -7,9 +7,9 @@ The projects focus on understanding logic such as loops, events, and conditions 
 - Scratch project files
 - Beginner-friendly scripts
 - Practice projects for learning Scratch
-
+- 
 ## Purpose
 - Learn the basics of programming
 - Improve logical thinking using Scratch
-
+  
 Created by Aman
